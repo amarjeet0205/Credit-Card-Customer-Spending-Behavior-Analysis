@@ -115,6 +115,3 @@ These visualizations helped interpret each segment, such as:
 - **Evaluation Metrics**: WCSS, Silhouette, Calinski-Harabasz, Davies-Bouldin
 
 ---
-
-## Project Structure
-
